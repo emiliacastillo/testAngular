@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 20,
+      "age": 23,
+      "name": "Henrietta Wilkins"
+    },
+    {
+      "id": 16,
+      "age": 22,
+      "name": "Valencia Bonner"
+    },
+    {
+      "id": 31,
+      "age": 25,
+      "name": "Melody Lamb"
+    },
+    {
+      "id": 7,
+      "age": 30,
+      "name": "Willa Higgins"
+    },
+    {
+      "id": 7,
+      "age": 38,
+      "name": "Nanette Ellison"
+    },
+    {
+      "id": 84,
+      "age": 38,
+      "name": "Mccullough Riggs"
+    },
+    {
+      "id": 67,
+      "age": 25,
+      "name": "Cecile Gordon"
+    },
+    {
+      "id": 51,
+      "age": 34,
+      "name": "Wheeler Beasley"
+    }
+    ]
+    }
