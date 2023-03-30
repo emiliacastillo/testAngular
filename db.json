@@ -3,33 +3,33 @@
     {
        "id": 1,
     "name": "Lola Flores",
-    "salary": 10.00,
-    "payDate": "08/10/2023",
+    "salary": 20.00,
+    "payDate": "03/26/2023",
     "dueDate": "08/20/2023",
     "directDeposit": "true"
     },
     {
        "id": 2,
-    "name": "Lola Flores",
+    "name": "Rihanna Rguez",
     "salary": 10.00,
-    "payDate": "08/10/2023",
-    "dueDate": "08/20/2023",
+    "payDate": "08/12/2023",
+    "dueDate": "08/22/2023",
     "directDeposit": "true"
     },
     {
        "id": 3,
-    "name": "Lola Flores",
-    "salary": 10.00,
+    "name": "Beyonce Lopez",
+    "salary": 30.00,
     "payDate": "08/10/2023",
     "dueDate": "08/20/2023",
     "directDeposit": "true"
     },
     {
        "id": 4,
-    "name": "Lola Flores",
-    "salary": 10.00,
-    "payDate": "08/10/2023",
-    "dueDate": "08/20/2023",
+    "name": "Leony Glez",
+    "salary": 50.00,
+    "payDate": "08/15/2023",
+    "dueDate": "08/25/2023",
     "directDeposit": "true"
     }
     ]
