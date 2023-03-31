@@ -1,43 +1,43 @@
 {
   "data": [
     {
-       "id": 1,
+    "id": 1,
     "name": "Lola Flores",
     "salary": 20.00,
     "payDate": "2023-03-16",
     "dueDate": "2023-03-16",
     "fundDate": "2023-03-16",
-    "payspan": "",
+    "payspan": "Weekly",
     "directDeposit": "true"
     },
     {
-       "id": 2,
+    "id": 2,
     "name": "Rihanna Rguez",
     "salary": 10.00,
     "payDate": "2023-03-19",
     "dueDate": "2023-03-21",
     "fundDate": "2023-03-16",
-    "payspan": "",
+    "payspan": "Weekly",
     "directDeposit": "true"
     },
     {
-       "id": 3,
+    "id": 3,
     "name": "Beyonce Lopez",
     "salary": 30.00,
     "payDate": "2023-03-16",
     "dueDate": "2023-03-25",
     "fundDate": "2023-03-16",
-    "payspan": "",
+    "payspan": "Weekly",
     "directDeposit": "true"
     },
     {
-       "id": 4,
+    "id": 4,
     "name": "Leony Glez",
     "salary": 50.00,
     "payDate": "2023-03-16",
     "dueDate": "2023-03-17",
     "fundDate": "2023-03-16",
-    "payspan": "",
+    "payspan": "Weekly",
     "directDeposit": "true"
     }
     ]
