@@ -16,7 +16,7 @@
     "salary": 10.00,
     "payDate": "2023-03-19",
     "dueDate": "2023-03-21",
-    "fundDate": "2023-03-16"
+    "fundDate": "2023-03-16",
     "payspan": "",
     "directDeposit": "true"
     },
@@ -26,7 +26,7 @@
     "salary": 30.00,
     "payDate": "2023-03-16",
     "dueDate": "2023-03-25",
-    "fundDate": "2023-03-16"
+    "fundDate": "2023-03-16",
     "payspan": "",
     "directDeposit": "true"
     },
@@ -36,7 +36,7 @@
     "salary": 50.00,
     "payDate": "2023-03-16",
     "dueDate": "2023-03-17",
-    "fundDate": "2023-03-16"
+    "fundDate": "2023-03-16",
     "payspan": "",
     "directDeposit": "true"
     }
